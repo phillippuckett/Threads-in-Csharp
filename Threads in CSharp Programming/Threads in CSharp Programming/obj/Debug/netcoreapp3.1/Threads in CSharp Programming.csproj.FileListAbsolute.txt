@@ -1,0 +1,13 @@
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\bin\Debug\netcoreapp3.1\Threads in CSharp Programming.exe
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\bin\Debug\netcoreapp3.1\Threads in CSharp Programming.deps.json
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\bin\Debug\netcoreapp3.1\Threads in CSharp Programming.runtimeconfig.json
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\bin\Debug\netcoreapp3.1\Threads in CSharp Programming.runtimeconfig.dev.json
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\bin\Debug\netcoreapp3.1\Threads in CSharp Programming.dll
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\bin\Debug\netcoreapp3.1\Threads in CSharp Programming.pdb
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\obj\Debug\netcoreapp3.1\Threads in CSharp Programming.AssemblyInfoInputs.cache
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\obj\Debug\netcoreapp3.1\Threads in CSharp Programming.AssemblyInfo.cs
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\obj\Debug\netcoreapp3.1\Threads in CSharp Programming.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\obj\Debug\netcoreapp3.1\Threads in CSharp Programming.dll
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\obj\Debug\netcoreapp3.1\Threads in CSharp Programming.pdb
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\obj\Debug\netcoreapp3.1\Threads in CSharp Programming.genruntimeconfig.cache
+C:\Users\phill\source\repos\Threads in CSharp Programming\Threads in CSharp Programming\obj\Debug\netcoreapp3.1\Threads in CSharp Programming.csprojAssemblyReference.cache
